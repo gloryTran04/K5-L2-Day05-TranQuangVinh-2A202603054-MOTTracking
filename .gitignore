@@ -16,3 +16,6 @@ MOT17*/
 # CVAT local lab preparation
 .lab-local/
 .venv/
+
+# Python venv dat ten venv
+venv/
